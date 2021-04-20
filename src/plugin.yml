@@ -1,0 +1,9 @@
+author: SyFizz_
+version: 0.0.1
+main: fr.syfizz.sysellwands.Main
+name: SySellWands
+description: Basic sellwands plugin
+commands:
+  sellwands:
+    usage: /sellwands <give|reload> [player]
+    description: Allows you to give a wand to a player
